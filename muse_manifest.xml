@@ -1,0 +1,124 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bhushangosavi.me" resolutions="1x" timestamp="1465041164265">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4177152557" ref="phone>index"/>
+      <file name="index.css" crc="3995578318" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4207207841" seo="true" mt="1465041092731" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="31484398" ref="index"/>
+    <file name="index.css" crc="33467565" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:phone>index"/>
+    <file name="museutils.js" crc="3790713428" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="84559013" ref="index:phone>index"/>
+    <file name="webpro.js" crc="329496574" ref="index:phone>index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:phone>index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:phone>index"/>
+    <file name="form_check.php" crc="3805695515" ref="index:phone>index"/>
+    <file name="form_throttle.php" crc="3802629389" ref="index:phone>index"/>
+    <file name="form_process.php" crc="54267062" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index:phone>index"/>
+    <file name="form-u4465.php" crc="493406210" ref="phone>index"/>
+    <file name="museredirect.js" crc="71780213" ref="index"/>
+    <file name="form-u3590.php" crc="327619560" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="apple-1284085.jpg" crc="133826425" seo="true" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:phone>index"/>
+    <file name="computer-8236131.jpg" crc="4219986954" seo="true" ref="phone>index"/>
+    <file name="coffee-1283672.jpg" crc="337922100" seo="true" ref="phone>index"/>
+    <file name="editing-1141505.jpg" crc="450832361" seo="true" ref="phone>index"/>
+    <file name="cup-of-coffee-1280537.jpg" crc="4072071803" seo="true" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:phone>index"/>
+    <file name="fb-layer 1.png" crc="263408309" ref="index:phone>index"/>
+    <file name="fb-layer 1 copy.png" crc="4218590505" ref="index:phone>index"/>
+    <file name="g--layer 4.png" crc="277669972" ref="index:phone>index"/>
+    <file name="g--layer 4 copy.png" crc="82237883" ref="index:phone>index"/>
+    <file name="tw-layer 3.png" crc="4219991780" ref="index"/>
+    <file name="tw-layer 3 copy.png" crc="191517271" ref="index"/>
+    <file name="u917-4.png" crc="3811755909" ref="index"/>
+    <file name="pc-1207834.jpg" crc="448329936" seo="true" ref="phone>index"/>
+    <file name="logo.png" crc="258292260" seo="true" ref="index:phone>index"/>
+    <file name="favicon.ico" crc="4067692399" ref="phone>index"/>
+    <file name="psbuttonmenu-layer 2.png" crc="3795804502" ref="phone>index"/>
+    <file name="psbuttonmenu-layer 1.png" crc="85636670" ref="phone>index"/>
+    <file name="u4204-4.png" crc="260418123" ref="phone>index"/>
+    <file name="u4205-11.png" crc="209535674" ref="phone>index"/>
+    <file name="u4224-4.png" crc="3819098301" ref="phone>index"/>
+    <file name="u4362-4.png" crc="3783675978" ref="phone>index"/>
+    <file name="u4446-4.png" crc="4273574186" ref="phone>index"/>
+    <file name="u4489-17.png" crc="311828129" ref="phone>index"/>
+    <file name="u4489-17-r.png" crc="3844863548" ref="phone>index"/>
+    <file name="u4489-17-m.png" crc="446077895" ref="phone>index"/>
+    <file name="u4489-17-fs.png" crc="51175883" ref="phone>index"/>
+    <file name="u4490-4.png" crc="4082380584" ref="phone>index"/>
+    <file name="u4078-4.png" crc="113393973" ref="index"/>
+    <file name="u4082-11.png" crc="4202142319" ref="index"/>
+    <file name="u3914-4.png" crc="402679560" ref="index"/>
+    <file name="u3798-4.png" crc="4167455609" ref="index"/>
+    <file name="u3613-17.png" crc="311828129" ref="index"/>
+    <file name="u3613-17-r.png" crc="3844863548" ref="index"/>
+    <file name="u3613-17-m.png" crc="446077895" ref="index"/>
+    <file name="u3613-17-fs.png" crc="51175883" ref="index"/>
+    <file name="u3615-4.png" crc="231393339" ref="index"/>
+    <file name="apple-12840852.jpg" crc="4217815477" seo="true" ref="index"/>
+    <file name="computer-82361312.jpg" crc="4224503713" seo="true" ref="index"/>
+    <file name="coffee-12836722.jpg" crc="3862493524" seo="true" ref="index"/>
+    <file name="pc-12078342.jpg" crc="4196577320" seo="true" ref="index"/>
+    <file name="editing-11415052.jpg" crc="193683929" seo="true" ref="index"/>
+    <file name="cup-of-coffee-12805372.jpg" crc="3835946958" seo="true" ref="index"/>
+    <file name="tw-u4186-fr.png" crc="4113223656" ref="phone>index:index"/>
+    <file name="tw-u4186-r-fr.png" crc="97491885" ref="phone>index:index"/>
+    <file name="glyphi_0001_layer-2.png" crc="4228062935" seo="true" ref="phone>index:index"/>
+    <file name="tw-u4208-fr.png" crc="338341600" ref="phone>index"/>
+    <file name="tw-u4208-r-fr.png" crc="3354663" ref="phone>index"/>
+    <file name="2016-05-04 000932192x194.jpg" crc="205159479" seo="true" ref="phone>index"/>
+    <file name="logo_adobe__1png_0006_layer-6.png" crc="91646611" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0007_layer-5.png" crc="3830094569" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0008_layer-4.png" crc="206622244" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0009_layer-7.png" crc="508113943" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0010_layer-3.png" crc="4194763316" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0000_max.png" crc="495442712" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0001_maya.png" crc="352097278" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0002_fl.png" crc="131466285" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0003_an.png" crc="24051676" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0004_ai.png" crc="4147388259" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0005_id.png" crc="386102262" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0011_mu.png" crc="207308909" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0012_layer-2.png" crc="158999456" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0013_ps.png" crc="511196448" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0014_pr.png" crc="447917703" seo="true" ref="phone>index:index"/>
+    <file name="logo_adobe__1png_0015_au.png" crc="196706713" seo="true" ref="phone>index:index"/>
+    <file name="ser_png_0004s_0001_layer-9.png" crc="140964474" seo="true" ref="phone>index:index"/>
+    <file name="ser_00000000_0000_layer-13.png" crc="269371477" seo="true" ref="phone>index:index"/>
+    <file name="ser_00000000_0001_layer-14.png" crc="9799172" seo="true" ref="phone>index:index"/>
+    <file name="ser_png_0000s_0001_layer-5.png" crc="425618103" seo="true" ref="phone>index:index"/>
+    <file name="ser_png_0001s_0001_layer-6.png" crc="477052161" seo="true" ref="phone>index:index"/>
+    <file name="ser_png_0002s_0001_layer-7.png" crc="288820589" seo="true" ref="phone>index:index"/>
+    <file name="ser_png_0003s_0000_layer-8.png" crc="4278679643" seo="true" ref="phone>index:index"/>
+    <file name="u9651-4.png" crc="4106710688" ref="phone>index"/>
+    <file name="u9654-4.png" crc="3979863719" ref="phone>index"/>
+    <file name="works__0002s_0000_layer 7.jpg" crc="258882008" seo="true" ref="phone>index:index"/>
+    <file name="works__0005s_0000_layer 8.jpg" crc="344746848" seo="true" ref="phone>index:index"/>
+    <file name="works__0000s_0004_layer 6.jpg" crc="386136888" seo="true" ref="phone>index:index"/>
+    <file name="works__0001s_0002_layer 12.jpg" crc="374700844" seo="true" ref="phone>index:index"/>
+    <file name="u9697-4.png" crc="4222026565" ref="phone>index"/>
+    <file name="works__0003s_0002_layer 11.jpg" crc="4009098098" seo="true" ref="phone>index:index"/>
+    <file name="works__0004s_0000_layer 10.jpg" crc="188547950" seo="true" ref="phone>index:index"/>
+    <file name="tw-u4546-fr.png" crc="255181289" ref="phone>index"/>
+    <file name="tw-u4546-r-fr.png" crc="3845147412" ref="phone>index"/>
+    <file name="2016-05-04 000932.jpg" crc="352387035" seo="true" ref="index"/>
+    <file name="u9131-4.png" crc="4106710688" ref="index"/>
+    <file name="u9199-4.png" crc="3979863719" ref="index"/>
+    <file name="u9251-4.png" crc="4222026565" ref="index"/>
+  </folder>
+  <file name="index.html" crc="223694354" seo="true" mt="1465041146365" redirect="true"/>
+</manifest>

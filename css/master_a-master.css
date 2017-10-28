@@ -1,0 +1,50 @@
+#u120
+{
+	background-color: #000000;
+	opacity: 0.78;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=78)";
+	filter: alpha(opacity=78);
+}
+
+.js #u120.ose_pre_init
+{
+	opacity: 0.78;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=78)";
+	filter: alpha(opacity=78);
+}
+
+#u123-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 31px;
+	line-height: 42px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+}
+
+#u2252
+{
+	background-color: transparent;
+}
+
+#u129
+{
+	background-color: #000000;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+}
+
+#u132-4
+{
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
+#u132
+{
+	font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
